@@ -19,6 +19,6 @@ The purpose of this project is to showcase my data visualization and cleaning sk
 Data source: https://www.kaggle.com/cityofLA/la-restaurant-market-health-data#restaurant-and-market-health-inspections.csv
 
 The dataset contains data from restaurant and market health evaluations from the county of Los Angeles. All inspections were performed from July 2015 to March 2018. Data will be analzyed and visualized to answer the following questions:
-    * How do grades/scores vary across zipcodes? How do zip codes rank in terms of average scores?
+    * How do grades/scores vary across zipcodes? How do zip codes rank in terms of average scores?\n
     * Does the risk given to each restaurant accurately represent the score received?
     *  How do the scores of chain restaurants compare to score of local spots? For example, chipotle mexican grill v. local      mexican restaurants.
