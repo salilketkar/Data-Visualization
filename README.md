@@ -9,10 +9,15 @@ The purpose of this project is to showcase my data visualization and cleaning sk
 ### Methods Used
 * Data Visualization
 * Data Cleaning
+* Null-hypothesis significance testing
 
 
 ### Technologies
-* Python 
+* Python
+  * numpy
+  * pandas
+  * matplotlib
+  * scipy
 
 ## Project Description
 
